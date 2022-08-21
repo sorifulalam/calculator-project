@@ -22,13 +22,13 @@ body{
     color: white;
     width: 300px;
     height: auto;
-    padding: 20px;
+    padding: 15px;
     border-radius: 10px;
     text-align: center;
 }
 .btn{
     height: auto;
     width: 50px;
-    padding: 22px;
+    padding: 20px;
     margin: 5px;
 }
